@@ -8,5 +8,6 @@ int main(){
     printf("Sum: %f\n",a+b);
     printf("Average: %f\n",(a+b)/2);
     printf("Sum of squares: %f \n",a*a+b*b);
+    print("fhjksdshfkdfjlsdiuffnffk")
     return 0;
 }
